@@ -1,0 +1,14 @@
+Anotações de comandos
+
+Processo de versionamento no git
+git clone
+git status
+git add . (enviar para stage. salva todas as atualizações)
+git commit -m "comentar a atualização feita no repositório"
+git push origin main
+
+
+
+ls -a - visualizar arquivos ocultos.
+
+
